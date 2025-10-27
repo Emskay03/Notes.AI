@@ -58,3 +58,4 @@ lib/
 git clone https://github.com/yourusername/notes-ai.git
 cd notes-ai
 
+
