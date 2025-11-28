@@ -36,7 +36,7 @@ Simple, smart, and focused on helping you keep your thoughts organized effortles
 | **Cloud Firestore** | Real-time Database |
 | **Firebase Core** | App Initialization |
 | **Material 3** | Modern UI Toolkit |
-| **HuggingFace** | API Key |
+| **GROQ + LLaMA 3.1 API** | API Key |
 
 ---
 
@@ -57,5 +57,6 @@ lib/
 ```bash
 git clone https://github.com/yourusername/notes-ai.git
 cd notes-ai
+
 
 
