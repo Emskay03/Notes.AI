@@ -19,7 +19,7 @@ Simple, smart, and focused on helping you keep your thoughts organized effortles
 - ☁️ **Real-time Cloud Sync**  
   Your notes are stored in Firestore — synced instantly across sessions.  
 
-- ✨ **AI Summarization (Coming Soon)**  
+- ✨ **AI Summarization**  
   Automatically summarize long notes into short, meaningful insights.  
 
 - 🎨 **Modern Material 3 Design**  
@@ -57,6 +57,7 @@ lib/
 ```bash
 git clone https://github.com/yourusername/notes-ai.git
 cd notes-ai
+
 
 
 
